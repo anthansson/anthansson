@@ -6,9 +6,9 @@
 ### :man_technologist: About Me :
 I am a software engineer from Sweden.
 
-- 🤸‍♂️ I’m working as a full stack developer, with a focus on backend development. 
+- 🧙🏼‍♂️ I’m working as a full stack developer, with a focus on backend development. 
 
-- 😅 In my free time, I watch others code on youtube. I like working out, and enjoy most action sports. I especially love diving. 
+- 🌞 In my free time, I like working out, and enjoy most action sports. I especially love diving. 
 
 - 📫 How to reach me: 
   > anthansson@icloud.com
