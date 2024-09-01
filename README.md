@@ -3,12 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: About Me :
-I am a software engineer from Sweden.
 
-- 🧙🏼‍♂️ I’m working as a full stack developer, with a focus on backend development. 
+- 🧙🏼‍♂️ I’m working as a backend developer.
 
-- 🌞 In my free time, I like working out, and enjoy most action sports. I especially love diving. 
+- 🌞 In my free time, I like to go on adventures. I especially love climbing and diving. 
 
 - 📫 How to reach me: 
   > anthansson@icloud.com
