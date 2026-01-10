@@ -3,11 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
-- 🧙🏼‍♂️ I’m working as a backend developer.
-
-- 🌞 In my free time, I like to go on adventures. I especially love climbing and diving. 
-
 - 📫 How to reach me: 
   > anthansson@icloud.com
   > 
